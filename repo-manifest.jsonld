@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/pysal/splot/commit/b8361cb5f4685d0945e08cbf9172ba701ce57c44",
       "git:hexsha": "b8361cb5f4685d0945e08cbf9172ba701ce57c44",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-16T03:33:19.948955+00:00"
     },
     {
       "@id": "https://repolex.ai/r/pysal/splot/commit/87142a820a4128e88d85ee6e417bafef8acc9d53",
