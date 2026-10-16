@@ -1,0 +1,11 @@
+{
+  "org": "pysal",
+  "repo": "splot",
+  "versions": [
+    {
+      "commit": "b8361cb5f4685d0945e08cbf9172ba701ce57c44",
+      "tag": "",
+      "parsed_at": "2026-10-16T03:33:19.949430+00:00"
+    }
+  ]
+}
